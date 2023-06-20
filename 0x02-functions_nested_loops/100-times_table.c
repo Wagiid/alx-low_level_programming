@@ -19,7 +19,7 @@ _putchar(k + '0');
 }
 else if (k < 10 && j != 0)
 {
-_putchar(',');
+100-times_table.c_putchar(',');
 _putchar(' ');
 _putchar(' ');
 _putchar(' ');
